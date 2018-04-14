@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Employees>
+	<Employee>
+		<name>Test Emp1</name>
+		<department>HR</department>
+	</Employee>
+	<Employee>
+		<name>Test Emp2</name>
+		<department>Tech</department>
+	</Employee>
+</Employees>
